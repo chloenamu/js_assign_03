@@ -1,4 +1,5 @@
 <Closure>
+
 -a closure is an inner function that has access to the outer function’s variables, and parameters. 
 -a closure still can get access to the local variable after the outer function has been returned. 
 
